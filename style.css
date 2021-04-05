@@ -118,6 +118,10 @@ a:hover {
     border: 1px solid rgba(0, 0, 0, 0.226);
 }
 
+#im-feeling-lucky:hover {
+    border: 1px solid rgba(0, 0, 0, 0.226);
+}
+
 #im-feeling-lucky {
     border: none;
     font-size: 15px;
